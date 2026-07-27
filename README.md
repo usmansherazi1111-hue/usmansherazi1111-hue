@@ -20,11 +20,11 @@ I'm passionate about building AI-powered applications, automation workflows, and
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=2377F7&multiline=true&width=435&lines=AI+Developer;Full+Stack+Developer;Automation+Engineer;Building+Enterprise+AI+Solutions)](https://git.io/typing-svg)
 
-![Static Badge](https://img.shields.io/badge/Connect?style=for-the-badge&logo=linkedin&label=LinkedIn&color=0A66C2)(https://www.linkedin.com/in/usman-shirazi-2400623ab/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usman-shirazi-2400623ab/)
 
-![Static Badge](https://img.shields.io/badge/Connect?style=for-the-badge&logo=email&label=Email&color=0A66C2)(mailto:usmansherazi1111@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:usmansherazi1111@gmail.com)
 
-![Static Badge](https://img.shields.io/badge/Connect?style=for-the-badge&logo=github&label=GitHub&color=0A66C2)(https://github.com/usmansherazi1111-hue)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/usmansherazi1111-hue)
 
 <p align="center">
   <a href="https://github.com/usmansherazi1111-hue">
@@ -39,7 +39,6 @@ I'm passionate about building AI-powered applications, automation workflows, and
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
 
 
 
