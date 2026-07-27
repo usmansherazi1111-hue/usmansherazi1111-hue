@@ -34,4 +34,4 @@ I'm passionate about building AI-powered applications, automation workflows, and
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=usmansherazi1111-hue)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usmansherazi1111-hue)](https://github.com/usmansherazi1111-hue/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usmansherazi1111-hue&size_weight=0.5&count_weight=0.5)
