@@ -27,5 +27,4 @@ I'm passionate about building AI-powered applications, automation workflows, and
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/usmansherazi1111-hue)
 
 
-
-
+[![My Skills](https://skillicons.dev/icons?i=python,react,figma,nodejs,mongodb,postgres,docker,git,github,vscode,firebase,n8n&theme=light)](https://skillicons.dev)
