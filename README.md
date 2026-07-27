@@ -1,16 +1,20 @@
-## Hi there 👋
+<p align="center">
+  <img src="banner.png" alt="GitHub Banner">
+</p>
 
-<!--
-**usmansherazi1111-hue/usmansherazi1111-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋 I'm Usman
 
-Here are some ideas to get you started:
+### AI & Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about building AI-powered applications, automation workflows, and scalable full-stack solutions.
+
+🚀 Currently working on:
+- AI Agents
+- Enterprise Software
+- React & Django Applications
+- n8n Automations
+
+🌱 Currently learning:
+- Multi-Agent Systems
+- LLM Applications
+- Cloud Deployment
