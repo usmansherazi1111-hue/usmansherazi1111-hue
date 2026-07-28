@@ -30,6 +30,6 @@ I'm passionate about building AI-powered applications, automation workflows, and
 
 [![My Skills](https://skillicons.dev/icons?i=python,react,figma,nodejs,mongodb,postgres,docker,git,github,vscode,firebase,n8n&theme=light)](https://skillicons.dev)
 
-[![Usman GitHub stats](https://github-stats-extended.vercel.app/api?username=usmansherazi1111-hue)](https://github.com/stats-organization/github-stats-extended)
+![Usman GitHub stats](https://github-readme-stats.vercel.app/api?username=usmansherazi1111-hue&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usmansherazi1111-hue&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
