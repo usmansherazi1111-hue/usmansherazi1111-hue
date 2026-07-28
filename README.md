@@ -32,6 +32,4 @@ I'm passionate about building AI-powered applications, automation workflows, and
 
 [![Usman GitHub stats](https://github-stats-extended.vercel.app/api?username=usmansherazi1111-hue)](https://github.com/stats-organization/github-stats-extended)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=usmansherazi1111-hue)](https://git.io/streak-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usmansherazi1111-hue&size_weight=0.5&count_weight=0.5)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usmansherazi1111-hue&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
