@@ -32,6 +32,4 @@ I'm passionate about building AI-powered applications, automation workflows, and
 
 [![Usman GitHub stats](https://github-stats-extended.vercel.app/api?username=usmansherazi1111-hue)](https://github.com/stats-organization/github-stats-extended)
 
-(https://github-stats-extended.vercel.app/api?username=usmansherazi1111-hue&theme=radical)
-
 
